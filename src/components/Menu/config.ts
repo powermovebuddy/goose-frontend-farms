@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/squirtlefinance',
+        href: 'https://github.com/PretzelSwap',
       },
       {
         label: 'Docs',
