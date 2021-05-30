@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'PRETZ-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824',
+      56: '',
     },
     tokenSymbol: 'PRETZ',
     tokenAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824',
+      56: '0xeE2EF037cc797CC87E67F20881e45bC03b7c5E1C',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'PRETZ-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824',
+      56: '',
     },
     tokenSymbol: 'PRETZ',
     tokenAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824',
+      56: '0xeE2EF037cc797CC87E67F20881e45bC03b7c5E1C',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -153,12 +153,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'PRETZ',
     lpAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824', // EGG-BUSD LP
+      56: '', // EGG-BUSD LP
     },
     tokenSymbol: 'PRETZ',
     tokenAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824',
+      56: '0xeE2EF037cc797CC87E67F20881e45bC03b7c5E1C',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -170,7 +170,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0xAB5AB570C2dF1E253d04a615Be9238b6c9283824', // EGG-BUSD LP (BUSD-BUSD will ignore)
+      56: '', // EGG-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
