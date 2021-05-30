@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/PretzelSwap',
+        href: 'https://github.com/PretzelSwap', //ask yangcheng
       },
       {
         label: 'Docs',
