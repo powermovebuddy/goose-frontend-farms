@@ -49,10 +49,10 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      /*{
+      /* {
         label: 'Github',
         href: 'https://github.com/PretzelSwap/', // ask yangcheng
-      },*/
+      }, */
       {
         label: 'Docs',
         href: 'https://pretzelfinance.gitbook.io/pretzelswap/',
