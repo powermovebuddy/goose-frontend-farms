@@ -57,10 +57,10 @@ const config: MenuEntry[] = [
         label: 'Docs',
         href: 'https://squirtle-finance.gitbook.io/squirtle-finance/',
       },
-      {
+     /* {
         label: 'Blog',
         href: 'https://squirtle-finance.medium.com/'
-      },
+      }, */
     ],
   },
 ]
