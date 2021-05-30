@@ -49,13 +49,13 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      {
+      /*{
         label: 'Github',
         href: 'https://github.com/PretzelSwap/', // ask yangcheng
-      },
+      },*/
       {
         label: 'Docs',
-        href: 'https://squirtle-finance.gitbook.io/squirtle-finance/',
+        href: 'https://pretzelfinance.gitbook.io/pretzelswap/',
       },
      /* {
         label: 'Blog',
