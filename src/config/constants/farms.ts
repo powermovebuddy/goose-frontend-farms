@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'PRETZ-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '',
+      56: '0xff4147599bb6a8568060e07e9ed646ac285e17df',
     },
     tokenSymbol: 'PRETZ',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'PRETZ-BNB LP',
     lpAddresses: {
       97: '',
-      56: '',
+      56: '0x90bc2cd0e78ecb4f4b884f690d62d592c77d5383',
     },
     tokenSymbol: 'PRETZ',
     tokenAddresses: {
@@ -153,7 +153,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'PRETZ',
     lpAddresses: {
       97: '',
-      56: '', // EGG-BUSD LP
+      56: '0xff4147599bb6a8568060e07e9ed646ac285e17df', // EGG-BUSD LP
     },
     tokenSymbol: 'PRETZ',
     tokenAddresses: {
@@ -170,7 +170,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '', // EGG-BUSD LP (BUSD-BUSD will ignore)
+      56: '0xff4147599bb6a8568060e07e9ed646ac285e17df', // EGG-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {

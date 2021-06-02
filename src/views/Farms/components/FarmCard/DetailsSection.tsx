@@ -51,34 +51,60 @@ const DetailsSection: React.FC<ExpandableSectionProps> = ({
   // toChange
 
   return (
-   <Text> </Text>
+    <Wrapper>
+      <Flex justifyContent="space-between">
+        <Text>{TranslateString(316, 'Stake')}:</Text>
+        <StyledLinkExternal href={
+          isTokenOnly ?
+            `https://exchange.pancakeswap.finance/#/swap/${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
+            :
+            `https://exchange.pancakeswap.finance/#/add/${liquidityUrlPathParts}`
+        }>
+          {lpLabel}
+        </StyledLinkExternal>
+      </Flex>
+      {!removed && (
+        <Flex justifyContent="space-between">
+          <Text>{TranslateString(23, 'Total Liquidity')}:</Text>
+          <Text>{totalValueFormated}</Text>
+        </Flex>
+      )}
+      <Flex justifyContent="flex-start">
+        <Link external href={bscScanAddress} bold={false}>
+          {TranslateString(356, 'View on BscScan')}
+        </Link>
+      </Flex>
+    </Wrapper>
   )
+  
+
 }
+
 
 export default DetailsSection
 
 
- // <Wrapper>
-    //   <Flex justifyContent="space-between">
-    //     <Text>{TranslateString(316, 'Stake')}:</Text>
-    //     <StyledLinkExternal href={
-    //       isTokenOnly ?
-    //         `https://exchange.pancakeswap.finance/#/swap/${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
-    //         :
-    //         `https://exchange.pancakeswap.finance/#/add/${liquidityUrlPathParts}`
-    //     }>
-    //       {lpLabel}
-    //     </StyledLinkExternal>
-    //   </Flex>
-    //   {!removed && (
-    //     <Flex justifyContent="space-between">
-    //       <Text>{TranslateString(23, 'Total Liquidity')}:</Text>
-    //       <Text>{totalValueFormated}</Text>
-    //     </Flex>
-    //   )}
-    //   <Flex justifyContent="flex-start">
-    //     <Link external href={bscScanAddress} bold={false}>
-    //       {TranslateString(356, 'View on BscScan')}
-    //     </Link>
-    //   </Flex>
-    // </Wrapper>
+//  <Wrapper>
+//       <Flex justifyContent="space-between">
+//         <Text>{TranslateString(316, 'Stake')}:</Text>
+//         <StyledLinkExternal href={
+//           isTokenOnly ?
+//             `https://exchange.pancakeswap.finance/#/swap/${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
+//             :
+//             `https://exchange.pancakeswap.finance/#/add/${liquidityUrlPathParts}`
+//         }>
+//           {lpLabel}
+//         </StyledLinkExternal>
+//       </Flex>
+//       {!removed && (
+//         <Flex justifyContent="space-between">
+//           <Text>{TranslateString(23, 'Total Liquidity')}:</Text>
+//           <Text>{totalValueFormated}</Text>
+//         </Flex>
+//       )}
+//       <Flex justifyContent="flex-start">
+//         <Link external href={bscScanAddress} bold={false}>
+//           {TranslateString(356, 'View on BscScan')}
+//         </Link>
+//       </Flex>
+//     </Wrapper>
