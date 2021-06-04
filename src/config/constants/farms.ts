@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'PRETZ-BUSD LP',
+    lpSymbol: 'WDFI-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0xff4147599bb6a8568060e07e9ed646ac285e17df',
     },
-    tokenSymbol: 'PRETZ',
+    tokenSymbol: 'WDFI',
     tokenAddresses: {
       97: '',
       56: '0xeE2EF037cc797CC87E67F20881e45bC03b7c5E1C',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'PRETZ-BNB LP',
+    lpSymbol: 'WDFI-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x90bc2cd0e78ecb4f4b884f690d62d592c77d5383',
     },
-    tokenSymbol: 'PRETZ',
+    tokenSymbol: 'WDFI',
     tokenAddresses: {
       97: '',
       56: '0xeE2EF037cc797CC87E67F20881e45bC03b7c5E1C',
@@ -150,12 +150,12 @@ const farms: FarmConfig[] = [
     pid: 9,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'PRETZ',
+    lpSymbol: 'WDFI',
     lpAddresses: {
       97: '',
       56: '0xff4147599bb6a8568060e07e9ed646ac285e17df', // EGG-BUSD LP
     },
-    tokenSymbol: 'PRETZ',
+    tokenSymbol: 'WDFI',
     tokenAddresses: {
       97: '',
       56: '0xeE2EF037cc797CC87E67F20881e45bC03b7c5E1C',

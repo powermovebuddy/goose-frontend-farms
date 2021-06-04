@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total PRETZ burned since launch"
+        "text": "Total WDFI burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn PRETZ"
+        "text": "Stake LP tokens to earn WDFI"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake PRETZ"
+        "text": "Stake WDFI"
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake PRETZ tokens, the contract will automatically harvest PRETZ rewards for you!"
+        "text": "Every time you stake and unstake WDFI tokens, the contract will automatically harvest WDFI rewards for you!"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 PRETZ = 1 SYRUP"
+        "text": "1 WDFI = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of PRETZ block emissions each day (10 PRETZ per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of WDFI block emissions each day (10 WDFI per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% PRETZ"
+        "text": "%num% WDFI"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend PRETZ to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend WDFI to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% PRETZ Available"
+        "text": "%num% WDFI Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 PRETZ"
+        "text": "Your amount must be a multiple of 10 WDFI"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 PRETZ"
+        "text": "1 Ticket = 10 WDFI"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your PRETZ cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your WDFI cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "PRETZ prizes to be claimed"
+        "text": "WDFI prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve PRETZ"
+        "text": "Approve WDFI"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of PRETZ block emissions each day (10 PRETZ per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of WDFI block emissions each day (10 WDFI per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using PRETZ-BNB LP tokens, which means you need to stake equal amounts of PRETZ and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using WDFI-BNB LP tokens, which means you need to stake equal amounts of WDFI and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get PRETZ-BNB LP >"
+        "text": "Get WDFI-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, WolvesDenFinance burns the PRETZ."
+        "text": "The project gets the BNB, WolvesDenFinance burns the WDFI."
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New PRETZ\/block"
+        "text": "New WDFI\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "PRETZ to Harvest"
+        "text": "WDFI to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "PRETZ in Wallet"
+        "text": "WDFI in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting PRETZ"
+        "text": "Collecting WDFI"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "PRETZ to Collect"
+        "text": "WDFI to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake PRETZ to earn new tokens."
+        "text": "Stake WDFI to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "PRETZ to burn (USD)"
+        "text": "WDFI to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest PRETZ rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest WDFI rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy PRETZ and BNB tokens"
+        "text": "Buy WDFI and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get PRETZ-BNB LP tokens by adding PRETZ and BNB liquidity"
+        "text": "Get WDFI-BNB LP tokens by adding WDFI and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your PRETZ-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your WDFI-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for PRETZ, or keep for your collection!"
+        "text": "Trade in for WDFI, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive PRETZ, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive WDFI, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a PRETZ value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a WDFI value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for PRETZ"
+        "text": "Trade in for WDFI"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn PRETZ"
+        "text": "Stake LP tokens to earn WDFI"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The PRETZ Lottery"
+        "text": "The WDFI Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with PRETZ"
+        "text": "Buy tickets with WDFI"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback PRETZ"
+        "text": "Deposit Fee will be used to buyback WDFI"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn PRETZ"
+        "text": "Stake tokens to earn WDFI"
       }
     },
     {
