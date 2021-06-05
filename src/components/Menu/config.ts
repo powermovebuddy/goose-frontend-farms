@@ -21,24 +21,24 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'Hunting Grounds',
     icon: 'FarmIcon',
     href: '/farms',
   },
    {
-    label: 'Nests',
+    label: "Wolves' Den",
      icon: 'PoolIcon',
      href: '/nests',
    },
    {
      label: 'Audits',
      icon: 'AuditIcon',  // for now
-     href: 'https://finance.gitbook.io/swap/'
+     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/audits'
    },
    {
      label: 'Lottery',
      icon: 'TicketIcon',
-     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/'
+     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/coming-soon/lottery'
    },
   // {
    //  label: 'Pools',
@@ -66,6 +66,10 @@ const config: MenuEntry[] = [
       {
         label: 'Docs',
         href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/',
+      },
+      {
+        label: 'Giveaway',
+        href:'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/giveaway',
       },
      /* {
         label: 'Blog',
