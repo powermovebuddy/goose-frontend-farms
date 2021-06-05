@@ -61,7 +61,7 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {TranslateString(576, 'Enter the Wolves Den')}
+          {TranslateString(576, 'Wolves Den Defi')}
         </Heading>
         <Text>{TranslateString(578, 'Next Generation Yield farm on Binance Smart Chain.')}</Text>
       </Hero>
