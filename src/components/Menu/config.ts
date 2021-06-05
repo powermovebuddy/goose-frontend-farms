@@ -30,6 +30,16 @@ const config: MenuEntry[] = [
      icon: 'PoolIcon',
      href: '/nests',
    },
+   {
+     label: 'Audits',
+     icon: 'PoolIcon',  // for now
+     href: 'https://pretzelfinance.gitbook.io/pretzelswap/'
+   },
+   {
+     label: 'Lottery',
+     icon: 'TicketIcon',
+     href: 'https://pretzelfinance.gitbook.io/pretzelswap/'
+   }
   // {
    //  label: 'Pools',
    // icon: 'PoolIcon',
