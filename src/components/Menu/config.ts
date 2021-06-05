@@ -38,7 +38,7 @@ const config: MenuEntry[] = [
    {
      label: 'Lottery',
      icon: 'TicketIcon',
-     href: 'https://pretzelfinance.gitbook.io/pretzelswap/'
+     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/'
    },
   // {
    //  label: 'Pools',
@@ -65,7 +65,7 @@ const config: MenuEntry[] = [
       }, */
       {
         label: 'Docs',
-        href: 'https://pretzelfinance.gitbook.io/pretzelswap/',
+        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/',
       },
      /* {
         label: 'Blog',
