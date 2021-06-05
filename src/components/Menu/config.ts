@@ -32,7 +32,7 @@ const config: MenuEntry[] = [
    },
    {
      label: 'Audits',
-     icon: 'PoolIcon',  // for now
+     icon: 'AuditIcon',  // for now
      href: 'https://finance.gitbook.io/swap/'
    },
    {

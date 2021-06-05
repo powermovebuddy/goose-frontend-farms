@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total WDFI burned since launch"
+        "text": "Total WOLFI burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn WDFI"
+        "text": "Stake LP tokens to earn WOLFI"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake WDFI"
+        "text": "Stake WOLFI"
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake WDFI tokens, the contract will automatically harvest WDFI rewards for you!"
+        "text": "Every time you stake and unstake WOLFI tokens, the contract will automatically harvest WOLFI rewards for you!"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 WDFI = 1 SYRUP"
+        "text": "1 WOLFI = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of WDFI block emissions each day (10 WDFI per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of WOLFI block emissions each day (10 WOLFI per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% WDFI"
+        "text": "%num% WOLFI"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend WDFI to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend WOLFI to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% WDFI Available"
+        "text": "%num% WOLFI Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 WDFI"
+        "text": "Your amount must be a multiple of 10 WOLFI"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 WDFI"
+        "text": "1 Ticket = 10 WOLFI"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your WDFI cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your WOLFI cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "WDFI prizes to be claimed"
+        "text": "WOLFI prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve WDFI"
+        "text": "Approve WOLFI"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of WDFI block emissions each day (10 WDFI per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of WOLFI block emissions each day (10 WOLFI per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using WDFI-BNB LP tokens, which means you need to stake equal amounts of WDFI and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using WOLFI-BNB LP tokens, which means you need to stake equal amounts of WOLFI and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get WDFI-BNB LP >"
+        "text": "Get WOLFI-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, WolvesDenDefi burns the WDFI."
+        "text": "The project gets the BNB, WolvesDenDefi burns the WOLFI."
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New WDFI\/block"
+        "text": "New WOLFI\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "WDFI to Harvest"
+        "text": "WOLFI to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "WDFI in Wallet"
+        "text": "WOLFI in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting WDFI"
+        "text": "Collecting WOLFI"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "WDFI to Collect"
+        "text": "WOLFI to Collect"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Enter the Wolves' den"
+        "text": "Enter the Wolves' Den"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake WDFI to earn new tokens."
+        "text": "Stake WOLFI to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "WDFI to burn (USD)"
+        "text": "WOLFI to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest WDFI rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest WOLFI rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy WDFI and BNB tokens"
+        "text": "Buy WOLFI and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get WDFI-BNB LP tokens by adding WDFI and BNB liquidity"
+        "text": "Get WOLFI-BNB LP tokens by adding WOLFI and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your WDFI-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your WOLFI-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for WDFI, or keep for your collection!"
+        "text": "Trade in for WOLFI, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive WDFI, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive WOLFI, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a WDFI value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a WOLFI value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for WDFI"
+        "text": "Trade in for WOLFI"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn WDFI"
+        "text": "Stake LP tokens to earn WOLFI"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The WDFI Lottery"
+        "text": "The WOLFI Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with WDFI"
+        "text": "Buy tickets with WOLFI"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback WDFI"
+        "text": "Deposit Fee will be used to buyback WOLFI"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn WDFI"
+        "text": "Stake tokens to earn WOLFI"
       }
     },
     {
