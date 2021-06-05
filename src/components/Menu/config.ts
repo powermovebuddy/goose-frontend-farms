@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
    {
      label: 'Audits',
      icon: 'PoolIcon',  // for now
-     href: 'https://pretzelfinance.gitbook.io/pretzelswap/'
+     href: 'https://finance.gitbook.io/swap/'
    },
    {
      label: 'Lottery',
