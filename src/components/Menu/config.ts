@@ -39,7 +39,7 @@ const config: MenuEntry[] = [
      label: 'Lottery',
      icon: 'TicketIcon',
      href: 'https://pretzelfinance.gitbook.io/pretzelswap/'
-   }
+   },
   // {
    //  label: 'Pools',
    // icon: 'PoolIcon',
