@@ -56,6 +56,11 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
   {
+    label: 'Road Map',
+    icon: 'RoadmapIcon',
+    href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/roadmap',
+  },
+  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
@@ -67,10 +72,7 @@ const config: MenuEntry[] = [
         label: 'Docs',
         href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/',
       },
-      {
-        label: 'Giveaway',
-        href:'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/giveaway',
-      },
+      
      /* {
         label: 'Blog',
         href: 'https://squirtle-finance.medium.com/'
