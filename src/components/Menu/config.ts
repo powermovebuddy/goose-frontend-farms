@@ -61,6 +61,33 @@ const config: MenuEntry[] = [
     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/roadmap',
   },
   {
+    label: 'Features',
+    icon: 'LayerIcon',
+    items: [
+      {
+        label: 'Anti-Whale mechanism',
+        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/anti-whale-mechanism',
+      },
+      {
+        label: 'Automatic Emission Reduction',
+        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/automatic-emission-reduction',
+      },
+      {
+        label: 'Automatic Burn mechanism',
+        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/automatic-burn-mechanism',
+      },
+      {
+        label: 'Migrator code',
+        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/removal-of-migrator-code',
+      },
+      {
+        label: 'Timelock',
+        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/timelock',
+      },
+    ]
+  },
+
+  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
