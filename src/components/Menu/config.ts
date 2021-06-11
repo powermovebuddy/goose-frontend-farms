@@ -31,7 +31,7 @@ const config: MenuEntry[] = [
      href: '/nests',
    },
    {
-     label: 'Audits',
+     label: 'Audit by RugDoc',
      icon: 'AuditIcon',  // for now
      href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/audits'
    },
