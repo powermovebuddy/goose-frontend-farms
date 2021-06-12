@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'WOLFI-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '',
+      56: '0x5e098fceba941a353f466234d304fed4fa282344',
     },
     tokenSymbol: 'WOLFI',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'WOLFI-BNB LP',
     lpAddresses: {
       97: '',
-      56: '',
+      56: '0xee6cb62560521c029956397bf835649164270ea7',
     },
     tokenSymbol: 'WOLFI',
     tokenAddresses: {
@@ -169,7 +169,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'WOLFI',
     lpAddresses: {
       97: '',
-      56: '', // EGG-BUSD LP
+      56: '0x5e098fceba941a353f466234d304fed4fa282344', // EGG-BUSD LP
     },
     tokenSymbol: 'WOLFI',
     tokenAddresses: {
@@ -186,7 +186,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '', // EGG-BUSD LP (BUSD-BUSD will ignore)
+      56: '0x5e098fceba941a353f466234d304fed4fa282344', // EGG-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
