@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'WOLFI-BUSD LP',
+    lpSymbol: 'MAGIC-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x5e098fceba941a353f466234d304fed4fa282344',
     },
-    tokenSymbol: 'WOLFI',
+    tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
       56: '0x6665e8108343057D621B508c2F7366a369d96E8c',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'WOLFI-BNB LP',
+    lpSymbol: 'MAGIC-BNB LP',
     lpAddresses: {
       97: '',
       56: '0xee6cb62560521c029956397bf835649164270ea7',
     },
-    tokenSymbol: 'WOLFI',
+    tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
       56: '0x6665e8108343057D621B508c2F7366a369d96E8c',
@@ -166,12 +166,12 @@ const farms: FarmConfig[] = [
     pid: 10,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'WOLFI',
+    lpSymbol: 'MAGIC',
     lpAddresses: {
       97: '',
       56: '0x5e098fceba941a353f466234d304fed4fa282344', // EGG-BUSD LP
     },
-    tokenSymbol: 'WOLFI',
+    tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
       56: '0x6665e8108343057D621B508c2F7366a369d96E8c',

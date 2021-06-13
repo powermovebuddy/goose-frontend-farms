@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
     items: [
       /* {
         label: 'Github',
-        href: 'https://github.com/WolvesDenDefi/', // ask yangcheng
+        href: 'https://github.com/BlackMagicFinance/', // ask yangcheng
       }, */
       {
         label: 'Docs',

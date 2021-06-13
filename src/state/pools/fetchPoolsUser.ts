@@ -96,7 +96,7 @@ export const fetchUserPendingRewards = async (account) => {
 
   // toChange
 
-  const pendingReward = await masterChefContract.methods.pendingWolfi('0', account).call()
+  const pendingReward = await masterChefContract.methods.pendingMagic('0', account).call()
 
   return { ...pendingRewards, 0: new BigNumber(pendingReward).toJSON() }
 }
