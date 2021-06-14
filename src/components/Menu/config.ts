@@ -33,12 +33,12 @@ const config: MenuEntry[] = [
    {
      label: 'Audit by RugDoc',
      icon: 'AuditIcon',  // for now
-     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/audits'
+     href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
    },
    {
      label: 'Lottery',
      icon: 'TicketIcon',
-     href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/coming-soon/lottery'
+     href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
    },
   // {
    //  label: 'Pools',
@@ -58,7 +58,7 @@ const config: MenuEntry[] = [
   {
     label: 'Road Map',
     icon: 'RoadmapIcon',
-    href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/roadmap',
+    href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
   },
   {
     label: 'Features',
@@ -66,23 +66,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Anti-Whale mechanism',
-        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/anti-whale-mechanism',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
       },
       {
         label: 'Automatic Emission Reduction',
-        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/automatic-emission-reduction',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
       },
       {
         label: 'Automatic Burn mechanism',
-        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/automatic-burn-mechanism',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
       },
       {
         label: 'Migrator code',
-        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/removal-of-migrator-code',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
       },
       {
         label: 'Timelock',
-        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/features/timelock',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
       },
     ]
   },
@@ -97,7 +97,7 @@ const config: MenuEntry[] = [
       }, */
       {
         label: 'Docs',
-        href: 'https://wolvesdendefi-1.gitbook.io/wolvesdendefi/',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
       },
       
      /* {
