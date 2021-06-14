@@ -21,8 +21,8 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Spell Books',
-    icon: 'FarmIcon',
+    label: 'Spells',
+    icon: 'SunIcon',
     href: '/farms',
   },
    {
@@ -31,15 +31,15 @@ const config: MenuEntry[] = [
      href: '/nests',
    },
    {
-     label: 'Audit by RugDoc',
+     label: 'Audit/Reviews',
      icon: 'AuditIcon',  // for now
-     href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+     href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/security/untitled',
    },
-   {
-     label: 'Lottery',
+  {
+     label: 'Giveaway',
      icon: 'TicketIcon',
-     href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
-   },
+     href: '',
+   }, 
   // {
    //  label: 'Pools',
    // icon: 'PoolIcon',
@@ -58,7 +58,7 @@ const config: MenuEntry[] = [
   {
     label: 'Road Map',
     icon: 'RoadmapIcon',
-    href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+    href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/roadmap',
   },
   {
     label: 'Features',
@@ -66,24 +66,25 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Anti-Whale mechanism',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/untitled',
+      },
+      {
+        label: 'Anti-Bot',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/anti-bot',
       },
       {
         label: 'Automatic Emission Reduction',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/automatic-emission-reduction',
       },
       {
-        label: 'Automatic Burn mechanism',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+        label: 'Automatic Burn & Automatic Liquidity',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/automatic-burn-+-automatic-liquidity-adding',
       },
       {
-        label: 'Migrator code',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+        label: 'Buybacks and Burns',
+        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/buyback-and-burns',
       },
-      {
-        label: 'Timelock',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
-      },
+    
     ]
   },
 
