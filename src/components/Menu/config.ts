@@ -21,12 +21,12 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Hunting Grounds',
+    label: 'Spell Books',
     icon: 'FarmIcon',
     href: '/farms',
   },
    {
-    label: "Wolves' Den",
+    label: "Potions",
      icon: 'PoolIcon',
      href: '/nests',
    },
