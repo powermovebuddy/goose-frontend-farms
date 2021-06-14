@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'MAGIC-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x5e098fceba941a353f466234d304fed4fa282344',
+      56: '',
     },
     tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
-      56: '0x6665e8108343057D621B508c2F7366a369d96E8c',
+      56: '',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'MAGIC-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xee6cb62560521c029956397bf835649164270ea7',
+      56: '',
     },
     tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
-      56: '0x6665e8108343057D621B508c2F7366a369d96E8c',
+      56: '',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -169,12 +169,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'MAGIC',
     lpAddresses: {
       97: '',
-      56: '0x5e098fceba941a353f466234d304fed4fa282344', // EGG-BUSD LP
+      56: '', // EGG-BUSD LP
     },
     tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
-      56: '0x6665e8108343057D621B508c2F7366a369d96E8c',
+      56: '', 
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -186,7 +186,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x5e098fceba941a353f466234d304fed4fa282344', // EGG-BUSD LP (BUSD-BUSD will ignore)
+      56: '', // EGG-BUSD LP 
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
