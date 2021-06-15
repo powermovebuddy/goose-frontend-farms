@@ -24,7 +24,7 @@ const Row = styled.div`
 `
 
 // toChange  
-//twitter username 
+// twitter username 
 
 const TwitterCard = () => {
   const TranslateString = useI18n()
