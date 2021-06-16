@@ -13,7 +13,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
-      56: '',
+      56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -29,7 +29,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
-      56: '',
+      56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -174,7 +174,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'MAGIC',
     tokenAddresses: {
       97: '',
-      56: '', 
+      56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51', 
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,

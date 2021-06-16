@@ -1,10 +1,10 @@
 export default {
   cake: {
-    56: '', // this is the native token
+    56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51', // this is the native token
     97: '',
   },
   masterChef: {
-    56: '',
+    56: '0xC5918774284E745776790F9FB749B36F01b2e81b',
     97: '',
   },
   wbnb: {

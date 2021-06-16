@@ -86,10 +86,12 @@ const CardActions: React.FC<FarmCardActionsProps> = ({ farm, ethereum, account }
           {TranslateString(999, 'Staked')}
         </Text>
       </Flex>
-      {!account ? <UnlockButton mt="8px" fullWidth /> : renderApprovalOrStakeButton()}
+      <UnlockButton mt="8px" fullWidth disabled /> 
     </Action>
   )
 }
 
 export default CardActions
 // {!account ? <UnlockButton mt="8px" fullWidth /> : renderApprovalOrStakeButton()}
+
+// <UnlockButton mt="8px" fullWidth disabled /> 
