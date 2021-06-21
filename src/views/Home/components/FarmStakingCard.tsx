@@ -89,9 +89,9 @@ const FarmedStakingCard = () => {
           {account ? (
             <Button
               id="harvest-all"
-              disabled={balancesWithValue.length <= 0 || pendingTx}
+              disabled={ true }    // balancesWithValue.length <= 0 || pendingTx
               onClick={harvestAllFarms}
-              fullWidth disabled
+              fullWidth // tochange
             >
               {pendingTx
                 ? TranslateString(548, 'Collecting MAGIC')
