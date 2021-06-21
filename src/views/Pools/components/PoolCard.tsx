@@ -121,7 +121,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
           </div>
           {account && harvest && !isOldSyrup && (
             <HarvestButton
-              disabled // ={!earnings.toNumber() || pendingTx} tochange
+              disabled// ={!earnings.toNumber() || pendingTx} tochange
               text={pendingTx ? 'Collecting' : 'Harvest'}
               onClick={async () => {
                 setPendingTx(true)
@@ -173,7 +173,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
                 </Button>
                 <StyledActionSpacer /> 
                 {!isOldSyrup && (
-                  <IconButton disabled>                // ={isFinished && sousId !== 0} onClick={onPresentDeposit} tochange
+                  <IconButton disabled ={isFinished && sousId !== 0} onClick={onPresentDeposit}> 
                     <AddIcon color="background" />
                   </IconButton>
                 )}
