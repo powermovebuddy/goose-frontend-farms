@@ -126,7 +126,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
               onClick={async () => {
                 setPendingTx(true)
                 await onReward()
-                setPendingTx(false)
+                setPendingTx(false) 
               }}
             />
           )}
@@ -154,32 +154,32 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
                 <Button disabled={isFinished || requestedApproval} onClick={handleApprove} fullWidth>
                   {`Approve ${stakingTokenName}`}
                 </Button>
-              </div>
+              </div> 
             ) : (
               <>
                 <Button
-                  disabled    // ={stakedBalance.eq(new BigNumber(0)) || pendingTx} tochange
+                  disabled={stakedBalance.eq(new BigNumber(0)) || pendingTx} 
                   onClick={
                     isOldSyrup
                       ? async () => {
-                          setPendingTx(true)
-                          await onUnstake('0')
-                          setPendingTx(false)
+                          setPendingTx(true) 
+                          await onUnstake('0') 
+                          setPendingTx(false) 
                         }
-                      : onPresentWithdraw
+                      : onPresentWithdraw 
                   }
-                >
-                  {`Unstake ${stakingTokenName}`}
+                > 
+                  {`Unstake ${stakingTokenName}`} 
                 </Button>
-                <StyledActionSpacer />
+                <StyledActionSpacer /> 
                 {!isOldSyrup && (
-                  <IconButton disabled={isFinished && sousId !== 0} onClick={onPresentDeposit}>
+                  <IconButton disabled>                // ={isFinished && sousId !== 0} onClick={onPresentDeposit} tochange
                     <AddIcon color="background" />
                   </IconButton>
                 )}
               </>
             ))}
-        </StyledCardActions>
+        </StyledCardActions> 
         <StyledDetails>
           <div style={{ flex: 1 }}>{TranslateString(736, 'APR')}:</div>
           {isFinished || isOldSyrup || !apy || apy?.isNaN() || !apy?.isFinite() ? (
@@ -190,7 +190,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
         </StyledDetails>
         <StyledDetails>
           <div style={{ flex: 1 }}>
-            <span role="img" aria-label={stakingTokenName}>
+            <span role="img" aria-label={stakingTokenName}> 
               🥞{' '}
             </span>
             {TranslateString(384, 'Your Stake')}:
