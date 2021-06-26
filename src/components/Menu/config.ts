@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
    {
      label: 'Audit/Reviews',
      icon: 'AuditIcon',  // for now
-     href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/security/untitled',
+     href: '',
    },
   {
      label: 'Giveaway',
@@ -58,7 +58,7 @@ const config: MenuEntry[] = [
   {
     label: 'Road Map',
     icon: 'RoadmapIcon',
-    href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/roadmap',
+    href: '',
   },
   {
     label: 'Features',
@@ -66,23 +66,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Anti-Whale mechanism',
-        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/untitled',
+        href: '',
       },
       {
         label: 'Anti-Bot',
-        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/anti-bot',
+        href: '',
       },
       {
         label: 'Automatic Emission Reduction',
-        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/automatic-emission-reduction',
+        href: '',
       },
       {
         label: 'Automatic Burn & Automatic Liquidity',
-        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/automatic-burn-+-automatic-liquidity-adding',
+        href: '',
       },
       {
         label: 'Buybacks and Burns',
-        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/buyback-and-burns',
+        href: '',
       },
     
     ]
@@ -92,19 +92,11 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      /* {
-        label: 'Github',
-        href: 'https://github.com/BlackSimFinance/', // ask yangcheng
-      }, */
+     
       {
         label: 'Docs',
-        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/',
+        href: '',
       },
-      
-     /* {
-        label: 'Blog',
-        href: 'https://squirtle-finance.medium.com/'
-      }, */
     ],
   },
 ]
