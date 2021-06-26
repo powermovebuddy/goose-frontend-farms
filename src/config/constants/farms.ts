@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'MAGIC-BUSD LP',
+    lpSymbol: 'SIM-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0xf861e07e4bc01a8dbcb26aa5d5c3cbb8a79dcebc',
     },
-    tokenSymbol: 'MAGIC',
+    tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
       56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'MAGIC-BNB LP',
+    lpSymbol: 'SIM-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x17d6ac2a99f5002173fd7872923ae55a8604a108',
     },
-    tokenSymbol: 'MAGIC',
+    tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
       56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51',
@@ -166,12 +166,12 @@ const farms: FarmConfig[] = [
     pid: 10,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'MAGIC',
+    lpSymbol: 'SIM',
     lpAddresses: {
       97: '',
       56: '0xf861e07e4bc01a8dbcb26aa5d5c3cbb8a79dcebc', // EGG-BUSD LP
     },
-    tokenSymbol: 'MAGIC',
+    tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
       56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51', 

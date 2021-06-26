@@ -1,7 +1,7 @@
 {
-  "short_name": "BlackMagicFinance",
-  "name": "BlackMagicFinance",
-  "description": "Farm MAGIC with LP Tokens",
+  "short_name": "BlackSimFinance",
+  "name": "BlackSimFinance",
+  "description": "Farm SIM with LP Tokens",
   "icons": [
     {
       "src": "favicon.ico",

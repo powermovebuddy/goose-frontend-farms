@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
    {
      label: 'Audit/Reviews',
      icon: 'AuditIcon',  // for now
-     href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/security/untitled',
+     href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/security/untitled',
    },
   {
      label: 'Giveaway',
@@ -58,7 +58,7 @@ const config: MenuEntry[] = [
   {
     label: 'Road Map',
     icon: 'RoadmapIcon',
-    href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/roadmap',
+    href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/roadmap',
   },
   {
     label: 'Features',
@@ -66,23 +66,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Anti-Whale mechanism',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/untitled',
+        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/untitled',
       },
       {
         label: 'Anti-Bot',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/anti-bot',
+        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/anti-bot',
       },
       {
         label: 'Automatic Emission Reduction',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/automatic-emission-reduction',
+        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/automatic-emission-reduction',
       },
       {
         label: 'Automatic Burn & Automatic Liquidity',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/automatic-burn-+-automatic-liquidity-adding',
+        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/automatic-burn-+-automatic-liquidity-adding',
       },
       {
         label: 'Buybacks and Burns',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/features/buyback-and-burns',
+        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/features/buyback-and-burns',
       },
     
     ]
@@ -94,11 +94,11 @@ const config: MenuEntry[] = [
     items: [
       /* {
         label: 'Github',
-        href: 'https://github.com/BlackMagicFinance/', // ask yangcheng
+        href: 'https://github.com/BlackSimFinance/', // ask yangcheng
       }, */
       {
         label: 'Docs',
-        href: 'https://blackmagicfinance-1.gitbook.io/blackmagicfinance/',
+        href: 'https://blacksimfinance-1.gitbook.io/blacksimfinance/',
       },
       
      /* {

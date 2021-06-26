@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total MAGIC burned since launch"
+        "text": "Total SIM burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn MAGIC"
+        "text": "Stake LP tokens to earn SIM"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake MAGIC"
+        "text": "Stake SIM"
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake MAGIC tokens, the contract will automatically harvest MAGIC rewards for you!"
+        "text": "Every time you stake and unstake SIM tokens, the contract will automatically harvest SIM rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Magic price"
+        "text": "Sim price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 MAGIC = 1 SYRUP"
+        "text": "1 SIM = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of MAGIC block emissions each day (10 MAGIC per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of SIM block emissions each day (10 SIM per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% MAGIC"
+        "text": "%num% SIM"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend MAGIC to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend SIM to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% MAGIC Available"
+        "text": "%num% SIM Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 MAGIC"
+        "text": "Your amount must be a multiple of 10 SIM"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 MAGIC"
+        "text": "1 Ticket = 10 SIM"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your MAGIC cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your SIM cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "MAGIC prizes to be claimed"
+        "text": "SIM prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve MAGIC"
+        "text": "Approve SIM"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of MAGIC block emissions each day (10 MAGIC per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of SIM block emissions each day (10 SIM per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using MAGIC-BNB LP tokens, which means you need to stake equal amounts of MAGIC and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using SIM-BNB LP tokens, which means you need to stake equal amounts of SIM and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get MAGIC-BNB LP >"
+        "text": "Get SIM-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, BlackMagicFinance burns the MAGIC."
+        "text": "The project gets the BNB, BlackSimFinance burns the SIM."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with BlackMagicFinance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with BlackSimFinance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "MAGIC Stats"
+        "text": "SIM Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New MAGIC\/block"
+        "text": "New SIM\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "MAGIC to Harvest"
+        "text": "SIM to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "MAGIC in Wallet"
+        "text": "SIM in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting MAGIC"
+        "text": "Collecting SIM"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "MAGIC to Collect"
+        "text": "SIM to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake MAGIC to earn new tokens."
+        "text": "Stake SIM to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "MAGIC to burn (USD)"
+        "text": "SIM to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest MAGIC rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest SIM rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy MAGIC and BNB tokens"
+        "text": "Buy SIM and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get MAGIC-BNB LP tokens by adding MAGIC and BNB liquidity"
+        "text": "Get SIM-BNB LP tokens by adding SIM and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your MAGIC-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your SIM-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for MAGIC, or keep for your collection!"
+        "text": "Trade in for SIM, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive MAGIC, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive SIM, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a MAGIC value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a SIM value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for MAGIC"
+        "text": "Trade in for SIM"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn MAGIC"
+        "text": "Stake LP tokens to earn SIM"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The MAGIC Lottery"
+        "text": "The SIM Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with MAGIC"
+        "text": "Buy tickets with SIM"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback MAGIC"
+        "text": "Deposit Fee will be used to buyback SIM"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn MAGIC"
+        "text": "Stake tokens to earn SIM"
       }
     },
     {
