@@ -58,7 +58,7 @@ const config: MenuEntry[] = [
   {
     label: 'Road Map',
     icon: 'RoadmapIcon',
-    href: '',
+    href: 'https://simulationswap123.gitbook.io/sim/roadmap',
   },
   {
     label: 'Features',
@@ -66,27 +66,31 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Anti-Whale mechanism',
-        href: '',
+        href: 'https://simulationswap123.gitbook.io/sim/features/anti-whale',
       },
       {
         label: 'Anti-Bot',
-        href: '',
+        href: 'https://simulationswap123.gitbook.io/sim/features/bot-vanquisher-protocol',
+      },
+      {
+        label: 'Deposit Shield',
+        href: 'https://simulationswap123.gitbook.io/sim/features/deposit-shield'
       },
       {
         label: 'Automated Emission Reduction',
-        href: '',
+        href: 'https://simulationswap123.gitbook.io/sim/features/automated-emission-reduction',
       },
       {
         label: 'Automated Burn',
-        href: '',
+        href: 'https://simulationswap123.gitbook.io/sim/features/automated-burn',
       },
       {
         label: 'Automated Liquidity',
-        href: ''
+        href: 'https://simulationswap123.gitbook.io/sim/features/automated-liquidity'
       },
       {
         label: 'Peroiodic Buybacks and Burns',
-        href: '',
+        href: 'https://simulationswap123.gitbook.io/sim/features/periodic-buyback-and-burns',
       },
     
     ]
