@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SIM-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xf861e07e4bc01a8dbcb26aa5d5c3cbb8a79dcebc',
+      56: '',
     },
     tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
-      56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51',
+      56: '0x0754221c7d3f19E43355b1B29b75Ff9e023E5fe0',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SIM-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x17d6ac2a99f5002173fd7872923ae55a8604a108',
+      56: '',
     },
     tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
-      56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51',
+      56: '0x0754221c7d3f19E43355b1B29b75Ff9e023E5fe0',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -169,12 +169,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SIM',
     lpAddresses: {
       97: '',
-      56: '0xf861e07e4bc01a8dbcb26aa5d5c3cbb8a79dcebc', // EGG-BUSD LP
+      56: '', // EGG-BUSD LP
     },
     tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
-      56: '0x6B073775A8E8C9D420c8F5732d83828c85864d51', 
+      56: '0x0754221c7d3f19E43355b1B29b75Ff9e023E5fe0', 
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -186,7 +186,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0xf861e07e4bc01a8dbcb26aa5d5c3cbb8a79dcebc', // EGG-BUSD LP 
+      56: '', // EGG-BUSD LP 
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
