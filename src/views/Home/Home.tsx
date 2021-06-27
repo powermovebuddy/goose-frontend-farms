@@ -11,8 +11,8 @@ import TwitterCard from './components/TwitterCard'
 
 const Hero = styled.div`
   align-items: center;
-  background-image: url('/images/egg/banner.mp4');
-  background-repeat: no-repeat;
+  background-image: url('/images/egg/banner.gif');
+  background-repeat: repeat;
   background-position: top center;
   display: flex;
   justify-content: center;

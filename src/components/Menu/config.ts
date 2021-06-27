@@ -66,27 +66,27 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Anti-Whale mechanism',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/features/anti-whale',
+        href: '',
       },
       {
         label: 'Anti-Bot',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/features/bot-vanquisher-protocol',
+        href: '',
       },
       {
         label: 'Automated Emission Reduction',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/features/automated-emission-reduction',
+        href: '',
       },
       {
         label: 'Automated Burn',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/features/automated-burn',
+        href: '',
       },
       {
         label: 'Automated Liquidity',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/features/automated-liquidity'
+        href: ''
       },
       {
         label: 'Peroiodic Buybacks and Burns',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/features/periodic-buyback-and-burns',
+        href: '',
       },
     
     ]
@@ -99,7 +99,7 @@ const config: MenuEntry[] = [
      
       {
         label: 'Docs',
-        href: 'https://app.gitbook.com/@simulationswap123/s/simulation-swap/tokenomics/sim-token',
+        href: 'https://simulationswap123.gitbook.io/simulation-swap/',
       },
     ],
   },
