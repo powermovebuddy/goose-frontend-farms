@@ -18,8 +18,8 @@ const Hero = styled.div`
   justify-content: center;
   flex-direction: column;
   margin: 0px;
-  margin-bottom: 120px; 
-  padding-top: 120px;
+  margin-bottom: 100px; 
+  padding-top: 100px;
   text-align: center;
   background-size: cover;
 
