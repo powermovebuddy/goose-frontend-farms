@@ -22,7 +22,7 @@ const Hero = styled.div`
   padding-top: 90px;
   text-align: center;
   background-size: cover;
-  min-height: 315px;
+  min-height: 350px;
 
   // ${({ theme }) => theme.mediaQueries.lg} {
   //   background-image: url('/images/egg/3.png'), url('/images/egg/3b.png');
