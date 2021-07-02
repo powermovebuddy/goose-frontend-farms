@@ -13,7 +13,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
-      56: '0x3118FF6C0C6165dceac7dC715db66A2885DcFF1c',
+      56: '0x3B938Da2eF3846816833Ea114a990E66e3d2b9dC',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -29,7 +29,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
-      56: '0x3118FF6C0C6165dceac7dC715db66A2885DcFF1c',
+      56: '0x3B938Da2eF3846816833Ea114a990E66e3d2b9dC',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -174,7 +174,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'SIM',
     tokenAddresses: {
       97: '',
-      56: '0x3118FF6C0C6165dceac7dC715db66A2885DcFF1c', 
+      56: '0x3B938Da2eF3846816833Ea114a990E66e3d2b9dC', 
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
