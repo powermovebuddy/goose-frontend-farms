@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SIM-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '',
+      56: '0x18225b17ff5404bd53172c16c5b9341b90b0f4b1',
     },
     tokenSymbol: 'SIM',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SIM-BNB LP',
     lpAddresses: {
       97: '',
-      56: '',
+      56: '0xd926e158f0234e39524d7fa8bb3baa8cb4298670',
     },
     tokenSymbol: 'SIM',
     tokenAddresses: {
@@ -169,7 +169,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SIM',
     lpAddresses: {
       97: '',
-      56: '', // EGG-BUSD LP
+      56: '0x18225b17ff5404bd53172c16c5b9341b90b0f4b1', // EGG-BUSD LP
     },
     tokenSymbol: 'SIM',
     tokenAddresses: {
@@ -186,7 +186,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '', // EGG-BUSD LP 
+      56: '0x18225b17ff5404bd53172c16c5b9341b90b0f4b1', // EGG-BUSD LP 
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
